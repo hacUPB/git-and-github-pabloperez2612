@@ -91,3 +91,6 @@ link para el repositorio local
 
 link para el repositorio remoto
 [enlace al repositorio remoto](../git-and-github-pabloperez2612/docs/repositorio_remoto.md)
+
+link para el uso de consola
+[enlace para el uso de consola](../git-and-github-pabloperez2612/docs/uso_consola.md)
