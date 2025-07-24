@@ -11,3 +11,5 @@ rm (borrar un archivo)
 git commit -m (checkpoint)
 git push (para enviar la informacion a la nube) 
 git status (ver el estado)
+
+![link imagen](../images/imagen%204.png)
