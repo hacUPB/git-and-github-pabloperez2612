@@ -88,3 +88,6 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 
 link para el repositorio local
 [enlace al repositorio local](../git-and-github-pabloperez2612/docs/repositorio_local.md)
+
+link para el repositorio remoto
+[enlace al repositorio remoto](../git-and-github-pabloperez2612/docs/repositorio_remoto.md)
