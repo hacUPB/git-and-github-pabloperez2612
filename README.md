@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # descripcion:
  en el repositorio podemos encontrar los principales comandos (y sus funciones) para git bash, y a traves de estos comandos, una breve explicacion de como crear repositorios locales y remotos, y los remotos enlazarlos con los repositorios locales
+ # clonar y ejecutar el proyecto
+ sa el comando git clone seguido de la URL que quieres clonar, con esto, hay una nueva carpeta completamente funcional
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
