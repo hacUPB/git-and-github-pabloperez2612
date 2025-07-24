@@ -85,3 +85,6 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+link para el repositorio local
+[enlace al repositorio local](../git-and-github-pabloperez2612/docs/repositorio_local.md)
