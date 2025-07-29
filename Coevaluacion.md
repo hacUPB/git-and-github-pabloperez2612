@@ -2,7 +2,7 @@
 
 Estudiante evaluado: David Piedrahita  
 
-link al repositorio: 
+link al repositorio: https://github.com/pabloperez2612/git-and-github-Ing-DavidPiedrahita/blob/main/README.md
 
 |criterio de evaluacion|Puntaje|
 |0-3|
