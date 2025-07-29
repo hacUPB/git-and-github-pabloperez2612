@@ -1,10 +1,10 @@
 # Archivo para coevaluacion de la unidad 1
 
-Estudiante evaluado:  
+Estudiante evaluado: David Piedrahita  
 link al repositorio: 
 |criterio de evaluacion|Puntaje|
-|---|---|
-|1. completitud de ejercicios  |  |
-|2. calidad de commits         |  |
-|3. uso correcto del flujo git/github |  |
-|4. estructura y nomenclatura  |  |
+|0-3|
+|1. completitud de ejercicios  | 3 |
+|2. calidad de commits         | 3 |
+|3. uso correcto del flujo git/github | 3 |
+|4. estructura y nomenclatura  | 3 |
